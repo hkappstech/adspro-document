@@ -16,7 +16,7 @@ This README provides instructions on how to integrate the AdsPro module into you
 > To add the AdsPro module as a dependency, insert the following line in your project's `build.gradle` file under the `dependencies` section:
 
 ```
-implementation(group: 'com.hkapps', name: 'adsprolib', version: '3.2', ext: 'aar') {
+implementation(group: 'com.hkapps', name: 'adsprolib', version: '3.3', ext: 'aar') {
     transitive = true;
 }
 ```
