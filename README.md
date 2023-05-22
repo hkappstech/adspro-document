@@ -3,7 +3,7 @@
 This README provides instructions on how to integrate the AdsPro module into your Android application. This module helps you to display various types of advertisements in your app, such as interstitial, native, banner, and app open ads. Follow the steps below to implement the AdsPro module in your project.
 
 [![N|Solid](https://i.ibb.co/pxWCrh4/Frame-23.png)](https://hkapps.io)
-> [![version](https://img.shields.io/badge/version-3.5-pass.svg)](https://hkapps.io)
+> [![version](https://img.shields.io/badge/version-3.6-pass.svg)](https://hkapps.io)
 
 
 ## Prerequisites
@@ -16,7 +16,7 @@ This README provides instructions on how to integrate the AdsPro module into you
 > To add the AdsPro module as a dependency, insert the following line in your project's `build.gradle` file under the `dependencies` section:
 
 ```
-implementation(group: 'com.hkapps', name: 'adsprolib', version: '3.5', ext: 'aar') {
+implementation(group: 'com.hkapps', name: 'adsprolib', version: '3.6', ext: 'aar') {
     transitive = true;
 }
 ```
